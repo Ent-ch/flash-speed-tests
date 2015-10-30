@@ -1,4 +1,6 @@
 Flash ID: 983A98A3 7651 Sandisk
+
+'
 -----------------------------------------------------------------------
 CrystalDiskMark 5.0.2 x64 (C) 2007-2015 hiyohiyo
                            Crystal Dew World : http://crystalmark.info/
@@ -18,7 +20,7 @@ CrystalDiskMark 5.0.2 x64 (C) 2007-2015 hiyohiyo
   Test : 500 MiB [F: 0.0% (0.0/28.8 GiB)] (x3)  [Interval=5 sec]
   Date : 2015/10/30 13:14:33
     OS : Windows 10  [10.0 Build 10240] (x64)
-  
+ ' 
 
 Query Product ID: Transcend 16GB
 -----------------------------------------------------------------------
