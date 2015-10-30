@@ -1,4 +1,5 @@
-# Flash ID: 983A98A3 7651 Sandisk
+## Silicon Power 32 GB Touch T07 Blue SP032GBUF2T07V1B
+http://www.silicon-power.com/product/product_detail.php?main=2&sub=9&pro=205&type=sp#a_1
 
 ```
 Sequential Read (Q= 32,T= 1) :    24.746 MB/s
@@ -14,7 +15,8 @@ Sequential Read (Q= 32,T= 1) :    24.746 MB/s
   Date : 2015/10/30 13:14:33
   ```
 
-#Query Product ID: Transcend 16GB
+## Transcend 16 GB JetFlash 700 TS16GJF700
+http://transcend-info.com/Products/No-312
 
 ```
    Sequential Read (Q= 32,T= 1) :    43.595 MB/s
