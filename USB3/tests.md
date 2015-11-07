@@ -31,3 +31,18 @@ http://transcend-info.com/Products/No-312
   Test : 500 MiB [F: 64.0% (9.4/14.7 GiB)] (x3)  [Interval=1 sec]
   Date : 2015/10/30 13:57:44
 ```
+## 16Gb Transcend JetFlash 700 Black (TS16GJF700)
+
+```
+Sequential Read (Q= 32,T= 1) : 73.607 MB/s
+Sequential Write (Q= 32,T= 1) : 21.389 MB/s
+Random Read 4KiB (Q= 32,T= 1) : 6.449 MB/s [ 1574.5 IOPS]
+Random Write 4KiB (Q= 32,T= 1) : 0.126 MB/s [ 30.8 IOPS]
+Sequential Read (T= 1) : 73.608 MB/s
+Sequential Write (T= 1) : 12.794 MB/s
+Random Read 4KiB (Q= 1,T= 1) : 5.937 MB/s [ 1449.5 IOPS]
+Random Write 4KiB (Q= 1,T= 1) : 0.211 MB/s [ 51.5 IOPS]
+
+Test : 500 MiB [F: 32.5% (4.8/14.7 GiB)] (x3) [Interval=5 sec]
+Date : 2015/11/07 23:11:27
+```
