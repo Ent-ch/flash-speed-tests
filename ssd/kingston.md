@@ -28,3 +28,19 @@ Sequential Read (Q= 32,T= 1) :   491.474 MB/s
   Date : 2015/11/09 22:04:53
     OS : Windows 8.1 Pro [6.3 Build 9600] (x64)
 ```
+
+##SSD Kingston SV300S37A/60G
+```
+   Sequential Read (Q= 32,T= 1) :   450.863 MB/s
+  Sequential Write (Q= 32,T= 1) :    90.039 MB/s
+  Random Read 4KiB (Q= 32,T= 1) :    80.118 MB/s [ 19560.1 IOPS]
+ Random Write 4KiB (Q= 32,T= 1) :    88.014 MB/s [ 21487.8 IOPS]
+         Sequential Read (T= 1) :   426.371 MB/s
+        Sequential Write (T= 1) :    89.346 MB/s
+   Random Read 4KiB (Q= 1,T= 1) :    22.930 MB/s [  5598.1 IOPS]
+  Random Write 4KiB (Q= 1,T= 1) :    88.771 MB/s [ 21672.6 IOPS]
+
+  Test : 500 MiB [C: 24.7% (13.7/55.4 GiB)] (x3)  [Interval=5 sec]
+  Date : 2015/11/25 22:31:55
+    OS : Windows 10  [10.0 Build 10240] (x64)
+```
