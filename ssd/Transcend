@@ -1,0 +1,15 @@
+####Transcend 128GB SSD370S
+```
+   Sequential Read (Q= 32,T= 1) :   535.561 MB/s
+  Sequential Write (Q= 32,T= 1) :   161.253 MB/s
+  Random Read 4KiB (Q= 32,T= 1) :   266.513 MB/s [ 65066.7 IOPS]
+ Random Write 4KiB (Q= 32,T= 1) :   160.799 MB/s [ 39257.6 IOPS]
+         Sequential Read (T= 1) :   502.705 MB/s
+        Sequential Write (T= 1) :   161.673 MB/s
+   Random Read 4KiB (Q= 1,T= 1) :    27.967 MB/s [  6827.9 IOPS]
+  Random Write 4KiB (Q= 1,T= 1) :   102.575 MB/s [ 25042.7 IOPS]
+
+  Test : 4096 MiB [C: 48.1% (23.2/48.3 GiB)] (x5)  [Interval=5 sec]
+  Date : 2016/02/17 18:43:04
+    OS : Windows 10 Professional [10.0 Build 10586] (x64)
+```  
